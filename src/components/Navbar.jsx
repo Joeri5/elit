@@ -6,7 +6,7 @@ const MyComponent = () => {
     return (
         <nav className="lg:py-10 py-7 px-10 lg:px-28">
             <div className="flex items-center w-full justify-between">
-                <div className="flex items-center gap-32">
+                <div className="flex items-center gap-10 xl:gap-32">
                     <div className="flex items-end gap-2">
                         <img src={Logo} alt="logo" className="w-10 h-10"/>
                         <p className="text-3xl font-semibold logo_name">Elit</p>
