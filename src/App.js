@@ -1,6 +1,7 @@
 import Navbar from "./components/Navbar";
 import Header from "./container/Header";
 import Marquee from "./container/Marquee";
+import Work from "./container/Work";
 
 function App() {
     return (
@@ -8,6 +9,7 @@ function App() {
             <Navbar/>
             <Header/>
             <Marquee/>
+            <Work/>
         </div>
     );
 }

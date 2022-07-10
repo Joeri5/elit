@@ -4,7 +4,7 @@ import './navbar.css'
 
 const MyComponent = () => {
     return (
-        <nav className="lg:py-10 py-7 px-10 lg:px-28">
+        <nav className="lg:py-10 py-7 px-10 lg:px-32">
             <div className="flex items-center w-full justify-between">
                 <div className="flex items-center gap-10 xl:gap-32">
                     <div className="flex items-end gap-2">
